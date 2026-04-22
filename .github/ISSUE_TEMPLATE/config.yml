@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability report
+    about: Do not report security issues publicly. Use the GitHub Email us feature for private reporting.
+    url: https://github.com/CarriganSoftwareSolutions
+  - name: Code of Conduct report
+    about: Report Code of Conduct concerns privately using the GitHub Email us feature.
+    url: https://github.com/CarriganSoftwareSolutions
