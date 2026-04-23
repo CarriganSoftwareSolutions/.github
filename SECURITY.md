@@ -22,7 +22,7 @@ Instead, report suspected vulnerabilities privately by using the GitHub **Email 
 
 Use a subject line such as:
 
-`Security Vulnerability Report - Carrigan.Core`
+`Security Vulnerability Report - Carrigan.<Library_Name>`
 
 ## What to Include
 

@@ -25,10 +25,10 @@ If this repository includes a local `CLA.md` or other repository-specific contri
 
 This repository uses a versioned branching model.
 
-- `master` is the forward-development branch for the next unreleased major version and may include breaking changes, major redesigns, and other work intended for a future major release.
+- `main` is the forward-development branch for the next unreleased major version and may include breaking changes, major redesigns, and other work intended for a future major release.
 - `version/<major>.x` branches are supported release lines for a given major version.
 - Smaller features, enhancements, bug fixes, and other non-breaking changes that are appropriate for the current supported release line should generally target the most recent supported `version/<major>.x` branch.
-- Breaking changes and major new features should target `master` unless the project maintainers explicitly direct otherwise.
+- Breaking changes and major new features should target `main` unless the project maintainers explicitly direct otherwise.
 - Older unsupported release lines may be moved to `archive/<major>.x` or otherwise marked as no longer supported at the discretion of the maintainers.
 
 Contributors should choose the target branch carefully. A pull request may be retargeted, declined, or deferred if it is submitted against the wrong branch.
